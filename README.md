@@ -4,18 +4,15 @@
 
 ---
 
-Trash Job Map
-
-
 ## Features
 
 - Locker room 
 - Tool room 
 - Boss room
 - Location : -327.71, -1545.52, 30.87
-- Showcase : [Click Here](https://www.youtube.com/watch?v=rcOgbH7CB4M&t=36s)
+- Showcase : [Click Here](https://www.youtube.com/watch?v=rcOgbH7CB4M)
 
 ## DMCA Protection Certificate
-![image](https://i.imgur.com/ZKgaF7B.png)
+![image](https://cdn.discordapp.com/attachments/1045063739738705940/1045101826166489108/image.png)
 
 ##### Copyright © 2022 Malibú Tech. All rights reserved.
